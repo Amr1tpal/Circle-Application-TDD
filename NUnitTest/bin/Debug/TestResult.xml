@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\amrit\OneDrive\Documents\Visual Studio 2015\Projects\CircleApplication\NUnitTest\bin\Debug\NUnitTest.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-06-01" time="16:29:31">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8784" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="LAPTOP-R35D31S9" user="amrit" user-domain="LAPTOP-R35D31S9" />
+  <culture-info current-culture="en-CA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\amrit\OneDrive\Documents\Visual Studio 2015\Projects\CircleApplication\NUnitTest\bin\Debug\NUnitTest.dll" executed="True" result="Success" success="True" time="0.067" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="NUnitTest" executed="True" result="Success" success="True" time="0.059" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="CircleTest" executed="True" result="Success" success="True" time="0.058" asserts="0">
+            <results>
+              <test-case name="NUnitTest.CircleTest.TestAddRadius" executed="True" result="Success" success="True" time="0.027" asserts="1" />
+              <test-case name="NUnitTest.CircleTest.TestAddRadius2" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="NUnitTest.CircleTest.TestcalculateArea" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="NUnitTest.CircleTest.TestcalculateArea2" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="NUnitTest.CircleTest.TestcalculateCircum" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="NUnitTest.CircleTest.TestcalculateCircum2" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="NUnitTest.CircleTest.TestSubRadius" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="NUnitTest.CircleTest.TestSubRadius2" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

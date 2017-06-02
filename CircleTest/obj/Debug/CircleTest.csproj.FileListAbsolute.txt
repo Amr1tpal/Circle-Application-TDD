@@ -1,0 +1,9 @@
+C:\Users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleTest\obj\Debug\CircleTest.csprojResolveAssemblyReference.cache
+C:\Users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleTest\bin\Debug\CircleTest.dll
+C:\Users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleTest\bin\Debug\CircleTest.pdb
+C:\Users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleTest\bin\Debug\CircleApplication.exe
+C:\Users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleTest\bin\Debug\CircleApplication.pdb
+C:\Users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleTest\obj\Debug\CircleTest.dll
+C:\Users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleTest\obj\Debug\CircleTest.pdb

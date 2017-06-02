@@ -1,0 +1,6 @@
+c:\users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleApplication\bin\Debug\CircleApplication.exe.config
+c:\users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleApplication\bin\Debug\CircleApplication.exe
+c:\users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleApplication\bin\Debug\CircleApplication.pdb
+c:\users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleApplication\obj\Debug\CircleApplication.csprojResolveAssemblyReference.cache
+c:\users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleApplication\obj\Debug\CircleApplication.exe
+c:\users\amrit\onedrive\documents\visual studio 2015\Projects\CircleApplication\CircleApplication\obj\Debug\CircleApplication.pdb
